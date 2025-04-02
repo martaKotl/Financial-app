@@ -1,0 +1,6 @@
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

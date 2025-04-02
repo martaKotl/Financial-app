@@ -1,0 +1,23 @@
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\Finanse Domowe.exe.config
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\Finanse Domowe.exe
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\Finanse Domowe.pdb
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\DataAccessLayer.dll
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\DataAccessLayer.pdb
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.csproj.AssemblyReference.cache
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmMain.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.Properties.Resources.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.csproj.GenerateResource.cache
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.csproj.CoreCompileInputs.cache
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse .8EBE6CAC.Up2Date
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.exe
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.pdb
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmSettings.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\Finanse Domowe.exe.manifest
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\bin\Debug\Finanse Domowe.application
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.exe.manifest
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse Domowe.application
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmBankStatement.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmTransaction.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmTransactionHistory.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmTransactionHistoryTimePicker.resources
+C:\Marta\Felis\Finanse Domowe App\Finanse Domowe\Finanse Domowe\obj\Debug\Finanse_Domowe.FrmUploadFile.resources
